@@ -58,7 +58,7 @@ The platform relies on a decoupled **MERN-P (MongoDB, Express-style FastAPI, Rea
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/senticpulse-ai.git](https://github.com/your-username/senticpulse-ai.git)
+git clone [https://github.com/Rohan07Das/senticpulse-backend](https://github.com/your-username/senticpulse-ai.git)
 cd senticpulse-ai
 
 ```
