@@ -1,6 +1,5 @@
 # SenticPulse AI: A Multi-Modal Engine using Hybrid NCF and Optimized Sentiment Analysis
-
-
+ 
 SenticPulse AI is an integrated, full-stack, hybrid intelligence architecture engineered to bridge the operational gap between unstructured social media sentiment mining and real-time product discovery for Small-to-Medium Enterprises (SMEs). 
 
 By leveraging optimized Natural Language Processing (NLP) paired with a deep-learning hybrid recommendation engine, the platform processes high-velocity digital linguistics and converts them into immediate, context-aware product recommendations.
